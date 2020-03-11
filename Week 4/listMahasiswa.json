@@ -1,0 +1,31 @@
+{
+  "mahasiswa": [
+    {
+      "nim": "1741720005",
+      "nama": "Linda Puspita",
+      "alamat": "Tulungagung",
+      "hp": "08775122678",
+      "angkatan": "2017",
+      "status": "cuti",
+      "id": "1741720005"
+    },
+    {
+      "nim": "1641720022",
+      "nama": "Maria",
+      "alamat": "Kediri",
+      "hp": "087750265231",
+      "angkatan": "2016",
+      "status": "aktif",
+      "id": "141720022"
+    },
+    {
+      "nim": "1541720025",
+      "nama": "Rozihan Hafiz",
+      "alamat": "Madura",
+      "hp": "08775026657",
+      "angkatan": "2015",
+      "status": "lulus",
+      "id": "1541720025"
+    }
+  ]
+}

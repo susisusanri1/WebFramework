@@ -1,0 +1,158 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+body {
+  margin:0;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #333;
+  width: 100%
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: white;
+  color: black;
+}
+footer{
+  background-color: black;
+  padding: 10px;
+  margin-bottom:0;
+  color: white;
+  text-align: center;
+  height: auto;
+
+}
+footer a{
+  text-decoration: none;
+  color: white;
+}
+footer a:hover{
+  background-color: yellow;
+  color: red;
+}
+.a{
+  padding: 20px;
+  background-color: #1abc9c50;
+  height: auto;
+  width: 600px;
+  margin: 0 auto;
+  color: #1abc9c;
+  font-size: 20px;
+  font-style: italic;
+  text-align: justify;
+}
+
+.b {
+  padding: 5px;
+  background-color: #1abc9c;
+  height: auto;
+  color: white;
+  text-align: center;
+}
+.b img {
+  border:1px solid #000;
+  margin: 5px 5px 0px 5px;
+  width: 60px;
+}
+.bg-1{
+ 
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding:20px;
+  margin-top: 30px;
+  min-height: 340px;
+
+}
+h2 {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+.btn {
+  position: relative;
+  padding: 16px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-transition-duration:0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border:2px solid yellow;
+  background-color: white;
+  color: red;
+  top: 50%;
+  left:45%;
+}
+.btn:hover{
+  background-color: yellow;
+  color: red;
+
+}
+.newspaper {
+  
+}
+p {
+  font-family: raleway;
+
+}
+.smk{
+  width: 100px;
+  height: 100px;
+}
+.smkit {
+  width: 100%;
+
+}

@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1583942747329,
+      "title": "Biografi",
+      "body": "Biografi adalah kisah atau keterangan tentang kehidupan seseorang. Sebuah biografi lebih kompleks daripada sekadar daftar tanggal lahir atau mati dan data-data pekerjaan seseorang, biografi juga bercerita tentang perasaan yang terlibat dalam mengalami kejadian-kejadian tersebut."
+    },
+    {
+      "userId": 1,
+      "id": 1583942818459,
+      "title": "Majas",
+      "body": "Pengertian majas adalah gaya bahasa yang digunakan untuk menyampaikan pesan dengan cara yang imajinatif atau berupa kiasan. Sifat majas secara umum adalah tidak pada makna yang sebenarnya atau kiasan atau bermakna konotasi.\n\nPenggunaan majas dalam gaya bahasa ini bertujuan untuk membuat pembaca bisa merasakan efek emosional tertentu dari gaya bahasa tersebut. Berbagai jenis majas sering digunakan sesuai dengan arah pembicaraan atau efek gaya bahasa yang diinginkan. Itu sebabnya, dikenal ada banyak jenis majas dalam bahasa Indonesia."
+    }
+  ]
+}
